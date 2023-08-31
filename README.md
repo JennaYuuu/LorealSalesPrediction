@@ -1,3 +1,15 @@
 # S23-CUDSI-Loreal-SalesForecasting
 This repository is used for Data Science Capstone (ENGI E4800), Spring 2023 at Columbia Engineering
 ![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/c41fd087-e978-4d90-9d45-ccac0b706f7c)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/e8518459-ff02-4e75-9b59-1862502356ff)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/e8325b97-42f7-46bf-a339-1e25bfaf80c7)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/370f6c61-0809-4f77-ab0f-2268ffdb33e3)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/6f4bcd25-c633-470b-b382-7cc84a512037)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/c3c04dbc-9ec4-49fe-ac12-fb6fd63268c9)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/030a23c3-9850-4d7f-897c-0a5d35104550)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/615c3067-5db2-4e7b-a480-82e21167f6fa)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/c34fd66e-ca52-440b-84d0-8b8f9c5979b6)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/7b49b270-682c-491d-bfd8-ac76456cd028)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/1a446755-62ff-4833-9426-9f0b3413b437)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/18621495-ceef-4948-85b2-8719729f35e7)
+![image](https://github.com/JennaYuuu/LorealSalesPrediction/assets/44104169/fbea2cad-5d61-4706-9ad8-5e0451af3d4b)
